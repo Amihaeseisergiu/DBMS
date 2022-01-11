@@ -1,2 +1,2 @@
-# DMS
-Laboratories and homeworks for the DMS course
+# DBMS
+Laboratories and homeworks for the DBMS course
